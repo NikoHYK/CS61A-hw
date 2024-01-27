@@ -99,7 +99,7 @@ def hailstone(n):
         if n == 1:
             return a
         elif n % 2 == 0:
-            n = n / 2
+            n = n // 2
             a = a + 1
             print (n)
         else:
