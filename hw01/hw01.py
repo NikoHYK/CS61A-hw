@@ -93,7 +93,7 @@ def hailstone(n):
     1
     """
     "*** YOUR CODE HERE ***"
-    a = 0
+    a = 1
     print (n)
     while 1:
         if n == 1:
